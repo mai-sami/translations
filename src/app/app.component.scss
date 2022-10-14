@@ -1,0 +1,18 @@
+.english{
+  direction: ltr;
+
+}
+.arabic{
+  direction: rtl;
+}
+.langs{
+  padding: 10px;
+  margin: 5px;
+
+
+ &.active {
+  background-color: green;
+
+}
+
+}
